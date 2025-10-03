@@ -32,7 +32,6 @@
 
 ## Technologies Used
 - **Frontend**: Windows Forms (.NET 8.0)
-- **Backend**: C#, Entity Framework 6
-- **Database**: SQL Server / LocalDB
+- **Backend**: C#, Entity Framework 
+- **Database**: SQL Server
 - **Data Access**: LINQ to Entities
-- **Architecture**: MVC Pattern
